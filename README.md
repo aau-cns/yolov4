@@ -1,5 +1,5 @@
 # Wrapper for Scaled-YOLOv4
-This is repository provides a wrapper for [WongKinYiu's Scaled-YOLOv4 implementation][https://github.com/WongKinYiu/ScaledYOLOv4/tree/yolov4-csp] in PyTorch. In contrast to the original implementation, the wrapper returns more information during a forward pass. Check out the original repository for more detailed information.
+This is repository provides a wrapper for [WongKinYiu's Scaled-YOLOv4 implementation](https://github.com/WongKinYiu/ScaledYOLOv4/tree/yolov4-csp) in PyTorch. In contrast to the original implementation, the wrapper returns more information during a forward pass. Check out the original repository for more detailed information.
 
 ## Installation
 ```sh
